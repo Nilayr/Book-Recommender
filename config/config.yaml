@@ -1,0 +1,3 @@
+data_ingestion:
+  source_file: Project/Book_Recommender_System-main/artifacts/dataset/BX-Books.csv
+  cleaned_file: Project/Book_Recommender_System-main/artifacts/dataset/cleaned_books.csv
